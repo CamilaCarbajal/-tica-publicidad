@@ -5,7 +5,7 @@ Email: u201513167@upc.edu.pe
 Autor 2
 First name: Melina
 Family name: Mezarina
-Email: melina.mezarina@upc.edu.pe
+Email: melina.mezarina@gmail.com
 Autor 3
 First name: Renato
 Family: Peñaflor
